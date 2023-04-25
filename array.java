@@ -17,4 +17,13 @@ public class array {
 
     }
 
+
+    public static void main(String[] args) {
+
+        List<Integer> x = Arrays.asList(5.0, 10, 15);
+        print(x);
+
+    }
+
+
 }
